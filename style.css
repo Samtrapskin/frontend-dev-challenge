@@ -87,7 +87,7 @@
     margin: 0;
   }
   
-/* NAV FIRST TAB */
+/* FIRST NAV-TAB */
 #first {
     margin-left: 105px;
 }
@@ -136,6 +136,8 @@
     display: block;
     text-align: left;
   }
+
+  /* END FIRST NAV-TAB */
   
   @media screen and (max-width: 600px) {
     .topnav a:not(:first-child), .dropdown .dropbtn {
